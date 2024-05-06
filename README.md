@@ -1,3 +1,7 @@
+
+![Screenshot (29)](https://github.com/Vampeyer/AndroidAppDev-WebViewTemplate/assets/104587177/3246af90-649d-48ff-ad03-7d3f74cb9356)
+
+
 # AndroidAppDev-WebViewTemplate
 This is a template for making applications in android , from websites. 
 
